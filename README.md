@@ -1,4 +1,4 @@
-## I knew it was you who was spying on me!
+## I knew it was you who were spying on me!
 
 Now that you found my super secret GitHub profile, allow me to properly introduce myself to you. <br/>
 
