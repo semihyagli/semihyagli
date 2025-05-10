@@ -23,9 +23,13 @@ If you are not impressed just yet, perhaps this last note will do the trick. A f
 
 
 If you have interesting propositions, and/or job offers, and/or ideas, and/or think that I am really cool and would like to just connect, feel free to reach out to me at [**LinkedIn**](https://www.linkedin.com/in/semihyagli/) with a message. <br/>
+
 ES: _Si usted es hispanohablante, me encantaría que me escribiera en español. Me encanta cualquier oportunidad para practicar mi idioma favorito siempre que pueda, especialmente cuando es gratis 😉._ <br/>
+
 FR: _Si vous êtes francophone, j’aimerais bien que vous m’écriviez en français. Je cherche toujours des occasions de parler cette belle langue, mais malheureusement, il y en a peu là où j’habite._ <br/>
+
 TR: _Eğer Türkçe biliyorsanız – ya da emin olmasanız bile bildiğinizi düşünüyorsanız 😊 – lütfen mesajınızı Türkçe yazmaktan çekinmeyin._ <br/>
+
 IT, PT, DE: If you speak Italian, Portugese, or German, you will have to wait, respectively 3, 5 and 7 years until I learn and be able to give you special treatment like the above. Unfortunately, I have only 168 hours per week and learning a language takes time...
 
 Thank you for taking the time to read!
