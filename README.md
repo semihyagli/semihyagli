@@ -23,6 +23,7 @@ Currently, I am working on a yet another _ultra-top-secret-super-important-and-a
 
 If you are not impressed just yet, perhaps this last note will do the trick. A fun fact about me is that I am a polyglot. Currently fluent in _English_, _French_, _Spanish_ and _Turkish_, I learn languages for the pure joy of learning and challenging myself. As I am working towards expanding my Spanish vocabulary, I plan to move on to my next challenge, Italian, by early 2026, then Portugese, then German and so on... until I have enough other problems (hopefully never).
 
+On the more sociable side, since otherwise all work and no play would make Semih a dull boy, I am the _graduate alumni leader_ of **Princeton Alumni Association of Essex and Hudson Counties** (**PAAEHs** in short). I help our regional alumni association to organize networking events geared towards the potential interests of Princeton Graduate alumni. If you are a Princetonian in the region with a great get-together idea, please do not hesitate to reach out. Additionally, I am also a member of **INFORMS** and serve on its _Career Services Committee_. 
 
 If you have interesting propositions, and/or job offers, and/or ideas, and/or think that I am really cool and would like to just connect, feel free to reach out to me at [**LinkedIn**](https://www.linkedin.com/in/semihyagli/) with a message. <br/>
 
