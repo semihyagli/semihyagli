@@ -10,6 +10,7 @@ Since I have too many great ideas to fit into a standard 40-hour work week, I sp
 I developed **_Etiqueta_** - the one and only gamified mobile data labeling application capable of handling picture classification, query-image relevance labeling, customer preference data collection, image segmentation, explicit query typo collection, and much more, all from mobile devices. Designed primarily with mobile use in mind (but also optimized for a solid desktop experience), Etiqueta is available at [**Apple App Store**](https://apps.apple.com/us/app/etiqueta/id6504646776) as well as [**Android Google Play Store**](https://play.google.com/store/apps/details?id=com.aidatalabel.etiqueta). <br/>
 
 As a result of Etiqueta, my game players labeled **_100,000_** _previously unlabeled_ images from the popular _STL10_ dataset, which I published it in this [_repository_](https://github.com/semihyagli/STL10-Labeled) under the name STL10-Labeled. <br/>
+
 Additionally, thanks to Etiqueta once again, my game players segmented **_8,000_** images from the STL10 dataset, which I published it in this other [_repository_](https://github.com/semihyagli/STL10_Segmentation) under the name STL10-Segmentation. <br/>
 
 For those interested, Etiqueta is at your service for DIY data labeling projects. It suffices to contact me at [_contact@aidatalabel.com_](mailto:contact@aidatalabel.com). <br/>
