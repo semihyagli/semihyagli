@@ -2,7 +2,7 @@
 
 Now that you've discovered my *super-secret* GitHub profile, allow me to properly introduce myself to save you from the trouble. <br/>
 
-TLDR version: ![**My Resume**](./CV-Semih%20Yagli_2505.pdf)
+TLDR version: [**My Resume**](./CV-Semih%20Yagli_2505.pdf)
 
 My name is **_Semih Yagli_**, and I hold a _Ph.D._ in _Electrical and Computer Engineering_ from **Princeton University**.
 I am currently working at Walmart Inc. as a **Senior Data Scientist**. However, thinking that this is all there is to know about me would be a great mistake... <br/> 
