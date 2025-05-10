@@ -19,7 +19,7 @@ For those interested, Etiqueta is at your service for DIY data labeling projects
 
 If you are impressed by the above and would like to help me out, you are always welcome to [buy me a coffee](https://buymeacoffee.com/semihyagli), or [sponsor me thorugh GitHub](https://github.com/sponsors/semihyagli). I would be forever indebted. <br/>
 
-Currently, I am working on a yet another _ultra-top-secret-super-important-and-amazing_ project with a friend. No further comments on this topic yet... <br/>
+Currently, I am working on a yet another _ultra-top-secret-super-important-and-amazing_ project with a friend. No further comments on this topic for now... <br/>
 
 If you are not impressed just yet, perhaps this last note will do the trick. A fun fact about me is that I am a polyglot. Currently fluent in _English_, _French_, _Spanish_ and _Turkish_, I learn languages for the pure joy of learning and challenging myself. As I am working towards expanding my Spanish vocabulary, I plan to move on to my next challenge, Italian, by early 2026, then Portugese, then German and so on... until I have enough other problems (hopefully never).
 
