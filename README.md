@@ -1,8 +1,8 @@
 ## I knew it was you who were spying on me!
 
-Now that you found my super secret GitHub profile, allow me to properly introduce myself to you. <br/>
+Now that you've discovered my *super-secret* GitHub profile, allow me to properly introduce myself. <br/>
 
-My name is Semih Yagli, and I hold a PhD from Princeton University, Electrical and Computer Engineering department. 
+My name is **_Semih Yagli_**, and I hold a _Ph.D._ in _Electrical and Computer Engineering_ from **Princeton University**.
 
 <!--
 **semihyagli/semihyagli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
