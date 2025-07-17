@@ -5,7 +5,7 @@ Now that you've discovered my *super-secret* GitHub profile, allow me to properl
 **_TLDR version of the below_**: [**My Resume**](./CV-Semih%20Yagli_2507.pdf) and [**My Research Portfolio**](https://scholar.google.com/citations?user=4GHnRnIAAAAJ&hl=en) and [**My LinkedIn Profile**](https://www.linkedin.com/in/semihyagli/).
 
 My name is **_Semih Yagli_**, and I hold a _Ph.D._ in _Electrical and Computer Engineering_ from **Princeton University**.
-I am currently working at Walmart Inc. as a **Senior Data Scientist**. However, thinking that this is all there is to know about me would be a great mistake... <br/> 
+I am currently working at Walmart Inc. as a **Staff Data Scientist**. However, thinking that this is all there is to know about me would be a great mistake... <br/> 
 
 Since I have too many great ideas to fit into a standard 40-hour work week, I spend a lot of my free time on long-term side projects. One of these projects recently bore fruits: <br/>
 
