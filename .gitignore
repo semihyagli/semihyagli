@@ -46,3 +46,6 @@ yarn-error.*
 *.app 
 *.ipa
 *.tar.gz
+
+# LaTeX
+*.tex
