@@ -17,7 +17,7 @@ Thanks to Etiqueta, crowdsourced players have produced two publicly available da
 - **[STL10-Labeled](https://github.com/semihyagli/STL10-Labeled)** — 100,000 newly labeled images from the popular STL10 dataset
 - **[STL10-Segmentation](https://github.com/semihyagli/STL10_Segmentation)** — 13,000 segmented images from the same dataset
 
-Etiqueta is also available for DIY data-labeling projects. Feel free to reach out at [contact@aidatalabel.com](mailto:contact@aidatalabel.com).
+Etiqueta is also available for DIY data-labeling projects. Feel free to reach out at LinkedIn.
 
 ---
 
