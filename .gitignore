@@ -49,3 +49,9 @@ yarn-error.*
 
 # LaTeX
 *.tex
+
+# AI Agent
+ClAUDE.md
+
+# Dumps
+/dumps
