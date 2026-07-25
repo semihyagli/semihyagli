@@ -2,6 +2,8 @@
 
 **_TLDR:_** [**My Resume**](./CV-Semih%20Yagli_2605.pdf) · [**Research Portfolio**](https://scholar.google.com/citations?user=4GHnRnIAAAAJ&hl=en) · [**LinkedIn**](https://www.linkedin.com/in/semihyagli/)
 
+If you are here for the Advanced Pokémon Search tool that I developed, here you go: https://semihyagli.github.io/AdvancedPokemonSearch/
+
 ---
 
 My name is **Semih Yagli**. I hold a Ph.D. in Electrical and Computer Engineering from **Princeton University** and currently work at **Walmart Inc.** as a **Staff Data Scientist**. That said, a job title captures only a fraction of what keeps me busy.
